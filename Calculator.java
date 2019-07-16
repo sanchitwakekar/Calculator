@@ -7,10 +7,17 @@ public class Calculator
 	{
 		return (a-b);
 	}
+<<<<<<< HEAD
 	public int divide(int a,int b)
 	{
 		return (a/b);
 	}	
+=======
+	public int multiplication(int a, int b)
+	{
+		return (a*b);
+	}
+>>>>>>> 3c6d39e160a7e08007ce7acadc4d8788e70ed7b1
 	public static void main()
 	{
 		Calculator c = new Calculator();
