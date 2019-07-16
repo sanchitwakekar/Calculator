@@ -15,5 +15,6 @@ public class Calculator
 	{
 		Calculator c = new Calculator();
 		int add = c.add(10,20);
+		int mul = c.mul(10,20);
 	}
 }
