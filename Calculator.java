@@ -14,5 +14,6 @@ public class Calculator
 	public static void main()
 	{
 		Calculator c = new Calculator();
+		int add = c.add(10,20);
 	}
 }
